@@ -1,4 +1,4 @@
-# Week1Capstone
+# Song Recognition AI
 
 Loading Songs to Database
 
